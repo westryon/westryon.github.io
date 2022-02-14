@@ -1,0 +1,63 @@
+body {
+	background-color: whitesmoke;
+
+}
+
+
+
+h1 {
+	text-align: center;
+	color: black;
+	font-size: 85px;
+	background-color:#F07611 ;
+}
+
+h2 { 
+	text-align: center; 
+}
+
+.espace {
+	background-color: #C5B9B3;
+}
+.card{
+	background-color: #DE8962;
+	border-color: black;
+}
+
+.card-body {
+	background-color: #F4E1D9;
+
+}
+
+
+
+
+.espace {
+	display: flex;
+	justify-content: space-around;
+}
+
+.navbar { 
+	display: flex;
+	justify-content: safe center;
+
+}
+
+label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+input,label {
+    margin: .4rem 0;
+}
+
+
+.roh {
+	margin-left: 20px;
+	font-size: 25px;
+}
+
+.alert {
+font-size: 20px;
+}
